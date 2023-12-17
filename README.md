@@ -9,3 +9,9 @@ It's purpose is to analyze all the movies and TV shows by ratings, genres and nu
 
 𝑫𝒂𝒕𝒂 𝑺𝒐𝒖𝒓𝒄𝒆𝒔 : I've used the public dataset available on Kaggle.
 https://www.kaggle.com/code/shivamb/amazon-prime-videos-exploratory-analysis
+
+<img width="489" alt="Report 1" src="https://github.com/Harshali-Awakirkar/Amazon-Prime-Analysis/assets/147408353/79865174-d2cb-423a-9324-eef1c34d2680">
+
+<img width="485" alt="image" src="https://github.com/Harshali-Awakirkar/Amazon-Prime-Analysis/assets/147408353/3b94121c-e80d-408f-baa2-8a72b20e521c">
+
+
